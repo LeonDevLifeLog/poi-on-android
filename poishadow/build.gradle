@@ -12,6 +12,8 @@ repositories {
 dependencies {
     implementation 'org.apache.poi:poi-ooxml:3.17'
     implementation 'com.fasterxml:aalto-xml:1.1.0'
+    implementation 'org.apache.poi:poi-scratchpad:3.17'
+    implementation 'org.apache.poi:poi-ooxml:3.17'
     implementation 'org.simpleframework:simple-xml:2.7.1'
 }
 
