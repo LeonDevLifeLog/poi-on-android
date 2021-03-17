@@ -13,6 +13,8 @@ dependencies {
     implementation fileTree(include: ['*.jar'], dir: 'libs')
     implementation 'org.apache.poi:poi-ooxml:3.17'
     implementation 'com.fasterxml:aalto-xml:1.1.0'
+    implementation 'org.apache.poi:poi-scratchpad:3.17'
+    implementation 'org.apache.poi:poi-ooxml:3.17'
 }
 
 shadowJar {
